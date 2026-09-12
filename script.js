@@ -1,1 +1,0 @@
-const button=document.querySelector('.menu');const nav=document.querySelector('.nav nav');button.addEventListener('click',()=>nav.classList.toggle('mobile-open'));nav.addEventListener('click',()=>nav.classList.remove('mobile-open'));

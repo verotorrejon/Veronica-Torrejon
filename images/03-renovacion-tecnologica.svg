@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e7d5ca"/>
+  <rect x="50" y="50" width="1100" height="800" fill="none" stroke="#823b50" stroke-width="2"/>
+  <text x="92" y="124" fill="#823b50" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="5">PROYECTO NACIONAL</text>
+  <text x="92" y="205" fill="#4b2b31" font-family="Georgia, serif" font-size="60">Renovación tecnológica</text>
+  <rect x="92" y="270" width="430" height="416" rx="10" fill="#4b2b31"/>
+  <rect x="131" y="310" width="352" height="240" rx="6" fill="#fff7ef"/>
+  <circle cx="307" cy="599" r="22" fill="#c78998"/>
+  <rect x="574" y="270" width="534" height="94" fill="#ead0d4"/>
+  <rect x="574" y="388" width="534" height="94" fill="#c78998"/>
+  <rect x="574" y="506" width="534" height="94" fill="#823b50"/>
+  <rect x="574" y="624" width="534" height="94" fill="#4b2b31"/>
+  <text x="610" y="327" fill="#4b2b31" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">01 · NECESIDADES Y PILOTO</text>
+  <text x="610" y="445" fill="#4b2b31" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">02 · LICITACIÓN Y COMPRA</text>
+  <text x="610" y="563" fill="#fff7ef" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">03 · LOGÍSTICA Y DESPLIEGUE</text>
+  <text x="610" y="681" fill="#fff7ef" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">04 · FORMACIÓN Y ADOPCIÓN</text>
+  <text x="92" y="787" fill="#823b50" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">REEMPLAZAR POR FOTO DE PILOTO, IMPLEMENTACIÓN O CAPACITACIÓN</text>
+</svg>

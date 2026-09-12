@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800">
+  <rect width="1600" height="800" fill="#d7b4b4"/>
+  <rect x="58" y="58" width="1484" height="684" fill="none" stroke="#fff7ef" stroke-width="2"/>
+  <circle cx="1180" cy="368" r="220" fill="#f6f0e9"/>
+  <circle cx="1070" cy="308" r="64" fill="#823b50"/>
+  <circle cx="1250" cy="265" r="64" fill="#4b2b31"/>
+  <circle cx="1320" cy="452" r="64" fill="#c78998"/>
+  <circle cx="1120" cy="500" r="64" fill="#dfcbbb"/>
+  <path d="M1070 374 1120 436M1250 331l48 63M1260 459l-80 35M1118 456l114-168" fill="none" stroke="#4b2b31" stroke-width="7"/>
+  <text x="125" y="220" fill="#4b2b31" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="6">IMPACTO Y COMUNIDAD</text>
+  <text x="125" y="330" fill="#4b2b31" font-family="Georgia, serif" font-size="73">Empatía en acción</text>
+  <text x="125" y="407" fill="#4b2b31" font-family="Georgia, serif" font-size="38">servicio · educación · aprendizaje</text>
+  <line x1="125" y1="474" x2="730" y2="474" stroke="#823b50" stroke-width="3"/>
+  <text x="125" y="535" fill="#823b50" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">FOTO AUTÉNTICA Y CON PUBLICACIÓN AUTORIZADA</text>
+  <text x="125" y="578" fill="#4b2b31" font-family="Arial, sans-serif" font-size="17">La Unión · Tanzania · Acción Social · CEMS Club</text>
+</svg>

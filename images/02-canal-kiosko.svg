@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800">
+  <rect width="1600" height="800" fill="#dcbfc1"/>
+  <rect x="58" y="58" width="1484" height="684" fill="none" stroke="#fff7ef" stroke-width="2"/>
+  <rect x="846" y="126" width="574" height="546" rx="8" fill="#4b2b31"/>
+  <rect x="904" y="182" width="458" height="304" rx="4" fill="#fff7ef"/>
+  <rect x="936" y="218" width="154" height="112" fill="#ead0d4"/>
+  <rect x="1110" y="218" width="220" height="20" fill="#c78998"/>
+  <rect x="1110" y="258" width="168" height="13" fill="#dfcbbb"/>
+  <rect x="1110" y="292" width="200" height="13" fill="#dfcbbb"/>
+  <rect x="936" y="364" width="394" height="74" rx="37" fill="#823b50"/>
+  <rect x="1053" y="486" width="160" height="120" fill="#4b2b31"/>
+  <rect x="974" y="600" width="318" height="24" rx="12" fill="#fff7ef"/>
+  <circle cx="1280" cy="563" r="21" fill="#c78998"/>
+  <text x="130" y="220" fill="#4b2b31" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="6">RIPLEY CHILE</text>
+  <text x="130" y="322" fill="#4b2b31" font-family="Georgia, serif" font-size="82">Canal KIOSKO</text>
+  <text x="130" y="405" fill="#4b2b31" font-family="Georgia, serif" font-size="44">venta asistida omnicanal</text>
+  <line x1="130" y1="475" x2="650" y2="475" stroke="#823b50" stroke-width="3"/>
+  <text x="130" y="533" fill="#823b50" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">FOTO HORIZONTAL SUGERIDA</text>
+  <text x="130" y="576" fill="#4b2b31" font-family="Arial, sans-serif" font-size="18">Tienda · compra asistida · experiencia real</text>
+  <text x="130" y="615" fill="#4b2b31" font-family="Arial, sans-serif" font-size="18">Sin pantallas, credenciales ni datos internos visibles</text>
+</svg>

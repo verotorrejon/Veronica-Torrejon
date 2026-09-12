@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1215">
+  <rect width="900" height="1215" fill="#ead0d4"/>
+  <rect x="48" y="48" width="804" height="1119" fill="none" stroke="#823b50" stroke-width="2"/>
+  <rect x="90" y="92" width="720" height="660" fill="#4b2b31"/>
+  <path d="M18 700c178-228 300-292 452-196 180 114 224-113 438-226" fill="none" stroke="#c78998" stroke-width="112"/>
+  <path d="M18 700c178-228 300-292 452-196 180 114 224-113 438-226" fill="none" stroke="#fff7ef" stroke-width="5" stroke-dasharray="22 24"/>
+  <text x="125" y="190" fill="#fff7ef" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">FOTO EN CARRERA</text>
+  <text x="125" y="375" fill="#fff7ef" font-family="Georgia, serif" font-size="165">21,1</text>
+  <text x="142" y="438" fill="#c78998" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="7">KILÓMETROS</text>
+  <line x1="125" y1="510" x2="420" y2="510" stroke="#fff7ef" stroke-width="2"/>
+  <text x="125" y="560" fill="#fff7ef" font-family="Georgia, serif" font-size="34">constancia en movimiento</text>
+  <text x="90" y="895" fill="#4b2b31" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="5">RUNNING · CONSTANCIA · BIENESTAR</text>
+  <text x="90" y="980" fill="#4b2b31" font-family="Georgia, serif" font-size="54">Media maratón</text>
+  <text x="90" y="1043" fill="#823b50" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LLEGADA · CARRERA · ENTRENAMIENTO AUTÉNTICO</text>
+  <line x1="90" y1="1097" x2="810" y2="1097" stroke="#823b50" stroke-width="2"/>
+</svg>

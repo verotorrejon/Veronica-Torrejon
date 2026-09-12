@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1120">
+  <rect width="900" height="1120" fill="#dfcbbb"/>
+  <rect x="48" y="48" width="804" height="1024" fill="none" stroke="#fff7ef" stroke-width="2"/>
+  <circle cx="668" cy="246" r="126" fill="#c78998"/>
+  <rect x="104" y="290" width="692" height="500" fill="#823b50"/>
+  <path d="M182 790V526c0-130 86-206 183-206s183 76 183 206v264Z" fill="#f6f0e9"/>
+  <path d="M458 790V580c0-95 64-151 135-151s135 56 135 151v210Z" fill="#4b2b31"/>
+  <text x="104" y="896" fill="#4b2b31" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="5">2022 — 2023 · MALTA</text>
+  <text x="104" y="963" fill="#4b2b31" font-family="Georgia, serif" font-size="50">Experiencia internacional</text>
+  <text x="104" y="1023" fill="#823b50" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">FOTO DE EQUIPO · EVENTO · CONTEXTO CULTURAL</text>
+</svg>

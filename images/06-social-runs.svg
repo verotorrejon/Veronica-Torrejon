@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#f1e2df"/>
+  <rect x="55" y="55" width="1290" height="790" fill="none" stroke="#823b50" stroke-width="2"/>
+  <path d="M-40 790C270 475 467 473 774 696s535 21 720-166" fill="none" stroke="#c78998" stroke-width="120"/>
+  <path d="M-40 790C270 475 467 473 774 696s535 21 720-166" fill="none" stroke="#fff7ef" stroke-width="5" stroke-dasharray="22 24"/>
+  <text x="105" y="165" fill="#823b50" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="5">RUNNING · BIENESTAR · COMUNIDAD</text>
+  <text x="105" y="260" fill="#4b2b31" font-family="Georgia, serif" font-size="74">Social Runs</text>
+  <text x="105" y="320" fill="#4b2b31" font-family="Georgia, serif" font-size="35">movernos también puede conectarnos</text>
+  <rect x="760" y="135" width="165" height="350" fill="#823b50"/>
+  <circle cx="842" cy="248" r="47" fill="#dfcbbb"/>
+  <path d="M787 408c9-86 30-128 55-128s46 42 55 128Z" fill="#fff7ef"/>
+  <text x="791" y="458" fill="#fff7ef" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">MOVIMIENTO</text>
+  <rect x="950" y="190" width="165" height="350" fill="#c78998"/>
+  <circle cx="1032" cy="303" r="47" fill="#4b2b31"/>
+  <path d="M977 463c9-86 30-128 55-128s46 42 55 128Z" fill="#fff7ef"/>
+  <text x="991" y="513" fill="#4b2b31" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">ENCUENTRO</text>
+  <rect x="1140" y="115" width="165" height="350" fill="#4b2b31"/>
+  <circle cx="1222" cy="228" r="47" fill="#c78998"/>
+  <path d="M1167 388c9-86 30-128 55-128s46 42 55 128Z" fill="#dfcbbb"/>
+  <text x="1197" y="438" fill="#fff7ef" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">GRUPO</text>
+  <text x="105" y="735" fill="#4b2b31" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">FOTO GRUPAL · LLEGADA · MOMENTO DE ENCUENTRO</text>
+  <text x="105" y="776" fill="#823b50" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PRIORIZAR UNA IMAGEN CON ENERGÍA, DIVERSIDAD Y CONTEXTO</text>
+</svg>

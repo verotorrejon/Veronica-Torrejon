@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#d9a6b2"/>
+  <rect x="54" y="54" width="1292" height="792" fill="none" stroke="#fff7ef" stroke-width="2"/>
+  <text x="105" y="130" fill="#4b2b31" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="5">PROYECTO PROPIO · EN DESARROLLO</text>
+  <text x="105" y="222" fill="#4b2b31" font-family="Georgia, serif" font-size="73">Recomienda Mujeres</text>
+  <text x="105" y="278" fill="#4b2b31" font-family="Georgia, serif" font-size="33">visibilidad · conexión · oportunidad</text>
+  <rect x="105" y="350" width="360" height="330" rx="12" fill="#fff7ef"/>
+  <circle cx="182" cy="435" r="39" fill="#ead0d4"/>
+  <rect x="244" y="402" width="154" height="17" rx="8" fill="#4b2b31"/>
+  <rect x="244" y="438" width="105" height="12" rx="6" fill="#c78998"/>
+  <rect x="145" y="512" width="274" height="13" rx="6" fill="#dfcbbb"/>
+  <rect x="145" y="546" width="228" height="13" rx="6" fill="#dfcbbb"/>
+  <rect x="145" y="605" width="165" height="38" rx="19" fill="#823b50"/>
+  <rect x="520" y="350" width="360" height="330" rx="12" fill="#4b2b31"/>
+  <circle cx="597" cy="435" r="39" fill="#c78998"/>
+  <rect x="659" y="402" width="154" height="17" rx="8" fill="#fff7ef"/>
+  <rect x="659" y="438" width="105" height="12" rx="6" fill="#d9a6b2"/>
+  <rect x="560" y="512" width="274" height="13" rx="6" fill="#806268"/>
+  <rect x="560" y="546" width="228" height="13" rx="6" fill="#806268"/>
+  <rect x="560" y="605" width="165" height="38" rx="19" fill="#d9a6b2"/>
+  <rect x="935" y="350" width="360" height="330" rx="12" fill="#ead0d4"/>
+  <circle cx="1012" cy="435" r="39" fill="#823b50"/>
+  <rect x="1074" y="402" width="154" height="17" rx="8" fill="#4b2b31"/>
+  <rect x="1074" y="438" width="105" height="12" rx="6" fill="#c78998"/>
+  <rect x="975" y="512" width="274" height="13" rx="6" fill="#c9aeb0"/>
+  <rect x="975" y="546" width="228" height="13" rx="6" fill="#c9aeb0"/>
+  <rect x="975" y="605" width="165" height="38" rx="19" fill="#4b2b31"/>
+  <text x="105" y="772" fill="#4b2b31" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">REEMPLAZAR POR CAPTURA DE LA WEB + FOTO DE COMUNIDAD</text>
+</svg>
